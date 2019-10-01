@@ -49,4 +49,6 @@ class MessageRepository(private val chatReferences: ChatReferences) {
                 .child(messageId ?: "0")
                 .setValue(chat.copy(messageId = messageId))
     }
+    
+    // abcd
 }
