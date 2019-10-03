@@ -1,4 +1,5 @@
 package com.alfianyusufabdullah.chatyuk.data.entity
+//numpang mang
 
 /**
  * Created by JonesRandom on 9/15/17.
